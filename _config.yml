@@ -16,7 +16,7 @@
 title: Nick Tooley's Portfolio
 email: toolnj1@student.op.ac.nz
 description: >- # this means to ignore newlines until "baseurl:"
-  An overview of my progress in the 2018 S1 Software Engineering project - Student Leave Management System
+  An overview of my progress in S1 2018  Software Engineering Project - <br /><br /> <b>Student Leave Management</b>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nicktooley.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
