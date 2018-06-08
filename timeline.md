@@ -41,6 +41,16 @@ We also assigned tasks for our next sprint, my task for the sprint was to transf
 	Our next assigned sprint tasks were assigned, and I was assigned the task of implemented a feature which allowed a lecturer to upload a csv file of students in a stream and loads it into the database. I spent the week looking for solutions to this, but found it difficult as the kate server’s php.ini file wouldn’t allow file uploads. Decided to focus on reading in a csv which is just hard coded into the directory. I also provided Coen, our lead UI designer, with the necessary dimensions to resize the OP logo on all pages.
 </td>
 
+<tr><td>Week 10:</td> 	<td>This week saw me having 2 assignments due at the end of the week in other classes, which required most of my attention. I only got a minimal amount of work done on the project, but was able to complete a few small tasks and fixed up small things here and there like including a functional return to dashboard button on the allstudents page and adding asterisks to the required fields on the leave request form.  <br /><br />
+    As I was unable to complete my sprint task for this week (reading in a csv), so I carried that onto my next sprint as long as a couple additional tasks (adding proper authentication to access control and ensuring good functional password hashing).
+</td>
+
+<tr><td>Week 11:</td> 	<td> With last weeks assignments out of the way, and no other ones immediately on the horizon, I was able to put a lot of work into the project this week and I got a lot done ! I managed to get the previous week's sprint task that I failed to do completed (CSV reading into database, which also required some tinkering with our database tables) as well as the other task assigned to me (Proper authentication with password hashing). Not only was I able to finish 2 weeks worth of sprint tasks, I also went above and beyond and entered the back log of our Trello board and completed numerous tasks from there.<br /><br />
+I was able to calculate and display days of leave remaining on the student landing page and in the dropdown box in the Leave Request form. I added require tags on the fields in the leave request form also, stopping the user from creating a bad request, whether on accident or on purpose. Adding onto that I also made sure the number of days was calculated when a request is made and checks if the student has enough remaining.<br /><br />
+I formatted the date shown in lecturer and student landings to display in a more user friendly and less cluttered manner. I also added onto one of my previous sprint tasks which was displaying all the students to the lecturer and their remaining leave days per type. I modified this to only display students in streams the lecturer teaches and also the ability to display students in a stream selected from a dropdown menu.
+
+</td>
+
 	 
 
  
