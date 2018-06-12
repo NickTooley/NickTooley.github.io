@@ -1,14 +1,10 @@
 ---
 layout: post
-title: Professional Proficiency
+title: <style="font-size: 120px;">Professional Proficiency</style>
 date: 2018-06-01 03:10 +1200
 ---
 
-<h3>A detailed report of my professional proficiency during the Leave Management project, including evidence and examples of my usage of agile principles.<h3>
-
-
-<img src="{{ 'assets/slackevidence1.png' | relative_url }}">
-<img src="{{ 'assets/trelloevidence1.png' | relative_url }}">
+<h3>A detailed report of my professional proficiency during the Leave Management project, including evidence and examples of my usage of agile principles.</h3>
 
 This is my second attempt at Software Engineering after last semester’s project crashed and failed in terrific fashion, so I knew to an extent what to expect and would, hopefully, learn from my mistakes and participate in a successful project. I’m happy to say that in my opinion my team and I achieved this. The downfall of last semester’s project came from a magnitude of different sources, but most of them coming down to not following agile principles, poor communication and put simply, not doing the work. Going into this semester I wanted to ensure, most importantly, that I would not succumb to these poor practices, and hopefully ensure my team wouldn’t either.<br /><br />
 The first thing that failed with our previous project and was the easiest to overcome was general communication and task tracking, so the first thing I did upon finding out who was in my group was create a Slack channel and collaborate with Fletcher to create a Trello board with all the members in the team added to both. These would serve as our primary means of communication and where all our tasks and other valuable information would be kept.<br /><br />
