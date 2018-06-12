@@ -4,26 +4,23 @@ title: Professional Proficiency
 date: 2018-06-01 03:10 +1200
 ---
 
-<<<<<<< HEAD
 <h3>A detailed report of my professional proficiency during the Leave Management project, including evidence and examples of my usage of agile principles.</h3>
-=======
-A detailed report of my professional proficiency during the Leave Management project, including evidence and examples of my usage of agile principles.
 
-To touch on:
+This is my second attempt at Software Engineering after last semester’s project crashed and failed in terrific fashion, so I knew to an extent what to expect and would, hopefully, learn from my mistakes and participate in a successful project. I’m happy to say that in my opinion my team and I achieved this. The downfall of last semester’s project came from a magnitude of different sources, but most of them coming down to not following agile principles, poor communication and put simply, not doing the work. Going into this semester I wanted to ensure, most importantly, that I would not succumb to these poor practices, and hopefully ensure my team wouldn’t either.<br /><br />
+The first thing that failed with our previous project and was the easiest to overcome was general communication and task tracking, so the first thing I did upon finding out who was in my group was create a Slack channel and collaborate with Fletcher to create a Trello board with all the members in the team added to both. These would serve as our primary means of communication and where all our tasks and other valuable information would be kept.<br /><br />
+We spent the first week of the project getting base requirements and user stories from the client and discussing what technologies to use for the project. We added all this information onto our Trello board. Learning that only 2 of our members were proficient in php (the language we used for our project) proved to be a difficult situation, however we were able to assign specific roles to these members which ensured they would still be vital members to the project, without having to code (too much) in php. We again added this information onto our Trello board. Our Trello board at the end of our first week looked like this:<br /><br />
+<img src="https://i.imgur.com/y0ZfXuI.png"><br /><br />
+I continued to utilize Trello and Slack for the rest of the project to its full extent. With Trello I would move cards to the appropriate categories on completion of tasks and assign tasks to people where necessary. Our final board looks like this:<br /><br />
+<img src="https://i.imgur.com/MZbeuzD.jpg"><br /><br />
+I added the Trello extension to Slack, used Slack to discuss features, update the rest of the team on my progress and co-ordinate meeting times, here is evidence of my contributions and discussions to the team Slack channel:<br /><br />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/921DHP6"><a href="//imgur.com/921DHP6"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script><br /><br />
+Right from start of the project, I made sure to fulfill the first agile principle (Our highest priority is to satisfy the customer through early and continuous delivery of valuable software) by myself as I thought it would act as ‘lead by example’ for my team. I set out the 2nd weekend of being in the group to make sure we had a working application fulfilling the base requirements from the client. This proved a good move, as this initial code was utilized by the rest of the group as a code base for the rest of the project. <br /><br />
+I deployed this base application on my own personal Kate server, which was obviously not the option we would use long term, so we continued to look at deployment options for us. After a whole week of discussing where to get a server and not a lot of progress, I took matters into my own hands and displayed some leadership, and ensured we had a Kate server and MariaDB server created for our group to use for the application.<br /><br />
+Weekly meetings with the client proved incredibly valuable as we were able to get the client’s opinion on certain styles and options we have as well as any features the client wants from that point. The client was more than willing to provide us with potential extra features she would want in the application which gave us a great opportunity as a group to follow the agile principle “Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.” <br /><br />
+Another agile principle that we as a group followed quite religiously which resulted in our overall success was our sprints. We had weekly sprints with each member getting a fair share of work assigned following our client meetings on Tuesdays with it due essentially on the following Monday, to be shown to the client the following day. This ensured we followed the agile principle of “Deliver[ing] working software frequently … with a preference to the shorter timescale.”<br /><br />
+An agile principle we failed to follow in my previous project was “The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.” This ultimately lead to our decline as we weren’t under much scrutiny to complete tasks and we weren’t sure what one another was progressing with. I was very lucky with this team I was placed in, as I share a good amount of my classes with the other members. This meant we were able to keep one another up to date with what we were working on and our general progress on our respective sprints. These served as mini-scrums we could have in between our official scrums which would take place during Software Engineering classes on Tuesday and Friday.<br /><br />
+Ultimately, this project was a success because I was able to learn from my previous failures and mistakes and was able to prevent both myself and my group from falling into similar patterns. I was able to do this by creating communication paths with project management tools such as Slack and Trello, leading by example from the work front and following the numerous agile principles.<br /><br />
 
-Slack communication 		- finished prototype very early
-							- learned framework
->>>>>>> parent of 4046492... Created Professional Proficiency
 
-Sprints						- Database Normalization
-
-Trello						- Script creation
-
-Git							- Smart commits
-							- Workflows
-
-<img src="{{ 'assets/slack2.png' | relative_url }}">
-<img src="{{ 'assets/slackevidence1.png' | relative_url }}">
-<img src="{{ 'assets/trelloevidence1.png' | relative_url }}">
 
 
