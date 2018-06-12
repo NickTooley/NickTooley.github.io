@@ -4,7 +4,7 @@ title: Professional Proficiency
 date: 2018-06-01 03:10 +1200
 ---
 <script>
-document.getElementsByClassName("h0 col-9 sm-width-full py-4 mt-3 inline-block").style.fontSize = "123px";
+document.getElementsByTagName("h1").style.fontSize = "123px";
 </script>
 <h3>A detailed report of my professional proficiency during the Leave Management project, including evidence and examples of my usage of agile principles.</h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br />
