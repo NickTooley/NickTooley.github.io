@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <style="font-size: 120px;">Professional Proficiency</style>
+title: Professional Proficiency
 date: 2018-06-01 03:10 +1200
 ---
 
