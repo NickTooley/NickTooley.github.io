@@ -11,5 +11,5 @@ My other team members were:<br />
  - Coen Edwards<br />
  - Henry Cooper<br /><br />
  
- The project took place over a 13 week period (including a 2 week holiday period) from the beginning of April to mid-June 2018.<br />
- A link to our live deployment is here: http://kate.ict.op.ac.nz/~se18group2/LiveVersion(Release)/Leave-Management-Project/StudentLeaveProject.php
+ The project took place over a 13 week period (including a 2 week holiday period) from the beginning of April to mid-June 2018.<br /><br />
+ A link to our live deployment is here:<br /> <a href="http://kate.ict.op.ac.nz/~se18group2/LiveVersion(Release)/Leave-Management-Project/StudentLeaveProject.php">http://kate.ict.op.ac.nz/~se18group2/LiveVersion(Release)/Leave-Management-Project/StudentLeaveProject.php</a>
