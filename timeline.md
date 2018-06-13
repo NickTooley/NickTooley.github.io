@@ -52,6 +52,11 @@ We had a meeting on the Friday about what to do from here until the end of the s
 
 </td>
 
+<tr><td>Week 12:</td> 	<td> Closing in on the final week of the semester, our project was starting to look really polished with a lot of functionality. We got our testers to begin their testing of our software and instantly spotted one major bug, we hadnt pulled to our live server in almost 2 weeks and the login could no longer authenticate on our new database, oops !<br /><br />
+This week I got to work on another feature I was trying to figure out a couple weeks ago but was struggling with, the csv upload and reading. Back then I was able to get it working from a hard coded csv file, but that obviously wont be the best solution long term, so I set out to learn a new skill and figure this out<br /><br >
+After a good amount of searching and trial and errors, I was able to get it up and running on our admin landing page, along with a form that asks for the new stream name (and sanitizes it), has a drop down box of all the lecturers and a file upload button where the user will upload their csv file. While working on this page, I also added the proper functionality to the rebuild default database button and logout button."
+</td>
+
 	 
 
  
