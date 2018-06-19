@@ -39,11 +39,11 @@ We also assigned tasks for our next sprint, my task for the sprint was to transf
 
 <tr><td>Week 9:</td>	<td>Friday we had an exam for software engineering which meant we had one less meeting this week. I had completed both my sprint task of the past week and added it to the site. Upon our Tuesday meeting, I had discovered Albert had found a much more elegant solution to the bug, so we implemented his version onto the live site.<br /><br />
 	Our next assigned sprint tasks were assigned, and I was assigned the task of implementing a feature which allowed a lecturer to upload a csv file of students in a stream and loads it into the database. I spent the week looking for solutions to this but found it difficult as the kate server’s PHP.ini file wouldn’t allow file uploads. Decided to focus on reading in a csv which is just hard coded into the directory. I also provided Coen, our lead UI designer, with the necessary dimensions to resize the OP logo on all pages.
-</td>
+</td></tr>
 
 <tr><td>Week 10:</td> 	<td>This week saw me having 2 assignments due at the end of the week in other classes, which required most of my attention. I only got a minimal amount of work done on the project, but was able to complete a few small tasks and fixed up small things here and there like including a functional return to dashboard button on the allstudents page and adding asterisks to the required fields on the leave request form.  <br /><br />
     As I was unable to complete my sprint task for this week (reading in a csv), so I carried that onto my next sprint as long as a couple additional tasks (adding proper authentication to access control and ensuring good functional password hashing).
-</td>
+</td></tr>
 
 <tr><td>Week 11:</td> 	<td> With last weeks assignments out of the way, and no other ones immediately on the horizon, I was able to put a lot of work into the project this week and I got a lot done! I managed to get the previous week's sprint task that I failed to do completed (CSV reading into the database, which also required some tinkering with our database tables) as well as the other task assigned to me (Proper authentication with password hashing). Not only was I able to finish 2 weeks worth of sprint tasks, I also went above and beyond and entered the backlog of our Trello board and completed numerous tasks from there.<br /><br />
 I was able to calculate and display days of leave remaining on the student landing page and in the drop-down box in the Leave Request form. I added require tags on the fields in the leave request form also, stopping the user from creating a bad request, whether on accident or on purpose. Adding onto that I also made sure the number of days was calculated when a request is made and checks if the student has enough remaining.<br /><br />
@@ -51,10 +51,13 @@ I formatted the date shown in lecturer and student landings to display in a more
 We had a meeting on the Friday about what to do from here until the end of the semester. We all agreed, because the last week of semester is going to be pretty hectic with exams and portfolios due, to start our proper testing with the members from the Software Testing class early next week, so we can make adjustments late next week. This means we had no active sprint until the software testers provide us with a testing report.
 
 </td>
-
+</tr>
 <tr><td>Week 12:</td> 	<td> Closing in on the final week of the semester, our project was starting to look really polished with a lot of functionality. We got our testers to begin their testing of our software and instantly spotted one major bug, we hadn't pulled to our live server in almost 2 weeks and the login could no longer authenticate on our new database, oops !<br /><br />
 This week I got to work on another feature I was trying to figure out a couple weeks ago but was struggling with, the csv upload and reading. Back then I was able to get it working from a hard-coded csv file, but that obviously wouldn't be the best solution long term, so I set out to learn a new skill and figure this out<br /><br >
 After a good amount of searching and trial and errors, I was able to get it up and running on our admin landing page, along with a form that asks for the new stream name (and sanitizes it), has a drop down box of all the lecturers and a file upload button where the user will upload their csv file. While working on this page, I also added the proper functionality to the rebuild default database button and logout button."
+</td></tr>
+
+<tr><td>Week 13:</td> 	<td>Going into the final week of the project, the application was all but completed, and we decided as a team to add no more functionality and to just focus on fixing any bugs that pop up from the user testing report we're receiving from the testing students.<br /><br />I messaged the team on Slack on the Tuesday to ensure they were all at the upcoming class as I wanted to begin a draft of the technical report as a team. Everyone but Henry showed up, and in order to stop everyone awkwardly crouching around one computer making small changes here and there, I created a Google Doc with editing permissions and put it into the Slack channel so everyone in the team was able to edit and add to it simulataneously.<br /><br />
 </td>
 
 	 
